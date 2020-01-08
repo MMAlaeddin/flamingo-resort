@@ -1,0 +1,22 @@
+body {
+    background-color: turquoise;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 80px;
+    color: hotpink
+}
+
+.flamingo {
+    border-radius: 50%; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-block-end-style: groove
+}
+
+    
